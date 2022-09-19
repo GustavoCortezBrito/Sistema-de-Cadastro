@@ -5,5 +5,5 @@
 Para rodar ultilize:
 
 <code>
-npm install react
+node app.js
 </code/
